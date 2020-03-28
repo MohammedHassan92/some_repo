@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 arshads test updated
+=======
+arshads test. This is the modified text getting committed.
+
+
+You should get a conflict here.
+>>>>>>> master
